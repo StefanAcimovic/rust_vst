@@ -1,0 +1,12 @@
+[package]
+name = "rust_vst"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cpal = "0.15"
+eframe = "0.29"
+egui = "0.29"
+ringbuf = "0.4"
+rustfft = "6.1"
+num-complex = "0.4"
